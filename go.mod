@@ -1,1 +1,1 @@
-module github.com/avaming/mymod
+module github.com/avamingli/mymod
