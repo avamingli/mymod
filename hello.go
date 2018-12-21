@@ -1,5 +1,5 @@
 package mymod
 
 func GetString() string {
-	return "mymod v2.0.0"
+	return "mymod v1.0.2"
 }
